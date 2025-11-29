@@ -1,0 +1,12 @@
+week 2>>
+This project does not require a GPU.  
+All computations run fully on CPU.
+
+You can check it inside the code:
+
+print("X device:", X.device)
+print("Model device:", next(model.parameters()).device)
+
+Output:
+X device: cpu
+Model device: cpu
