@@ -1,3 +1,5 @@
+week2>>
+
 XOR Neural Network Experiments (PyTorch)
 
 This project demonstrates how a small neural network can learn the XOR logic function using PyTorch.
